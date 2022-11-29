@@ -1,0 +1,15 @@
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/bin/Debug/net7.0/example 002 Hello user
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/bin/Debug/net7.0/example 002 Hello user.deps.json
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/bin/Debug/net7.0/example 002 Hello user.runtimeconfig.json
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/bin/Debug/net7.0/example 002 Hello user.dll
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/bin/Debug/net7.0/example 002 Hello user.pdb
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/example 002 Hello user.csproj.AssemblyReference.cache
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/example 002 Hello user.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/example 002 Hello user.AssemblyInfoInputs.cache
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/example 002 Hello user.AssemblyInfo.cs
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/example 002 Hello user.csproj.CoreCompileInputs.cache
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/example 002 Hello user.dll
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/refint/example 002 Hello user.dll
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/example 002 Hello user.pdb
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/example 002 Hello user.genruntimeconfig.cache
+/Users/mihailkalegin/Desktop/с#/examples/example 002 Hello user/obj/Debug/net7.0/ref/example 002 Hello user.dll
